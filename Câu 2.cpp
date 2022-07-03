@@ -28,6 +28,7 @@ int main(){
                 cout<<Sub_str[Pos[i]+1];
                 Pos[i]++;
             }
+           break;
         }
     }
 }
